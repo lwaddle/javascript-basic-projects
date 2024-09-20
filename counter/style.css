@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+}
+
+.value {
+  display: block;
+  padding: 40px 10px;
+  text-align: center;
+  font-size: xx-large;
+  font-weight: 700;
+}
+
+.btn {
+  margin: 10px;
+  padding: 10px;
+  font-size: medium;
+  text-transform: uppercase;
+  font-weight: 700;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+.counter-controls {
+  margin: 0 auto;
+}
+
+.text-red {
+  color: red;
+}
+
+.text-black {
+  color: black;
+}
+
+.text-green {
+  color: green;
+}
+
+/*# sourceMappingURL=style.css.map */
